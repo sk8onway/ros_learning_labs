@@ -1,6 +1,6 @@
-ROS 2 Learning Lab — Day 1 Notes
+# ROS 2 Learning Lab — Day 1 Notes
 
-Core Basics + Debugging Mindset
+## Core Basics + Debugging Mindset
 
 These notes document my Day-1 hands-on learning of ROS 2 fundamentals.
 The focus was not only on making things work, but on understanding how ROS 2 actually executes nodes, how Python packaging interacts with ROS, and how to debug real ROS errors systematically.
@@ -380,7 +380,7 @@ shotgun debugging
 
 reinstalling ROS for logic errors
 
-Final Takeaway
+## Final Takeaway
 
 By the end of Day-1, I understood:
 
